@@ -55,7 +55,7 @@ namespace BTMovementTracker
                 }
                 if (Main.Instance.Configuration.Instance.useWebhook)
                 {
-                    ThreadHelper.RunSynchronously(() => {
+                    ThreadHelper.RunAsynchronously(() => {
                         WebhookMessage PositionUpdate = new WebhookMessage()
                         .PassEmbed()
                         .WithTitle("MovementTracker - Position Update")
