@@ -1,4 +1,5 @@
 ﻿using BTMovementTracker.Helpers;
+using Rocket.API;
 using Rocket.Core.Logging;
 using Rocket.Core.Plugins;
 using Rocket.Unturned;
@@ -49,6 +50,10 @@ namespace BTMovementTracker
             while (true && Provider.clients.Contains(player.SteamPlayer()))
             {
                 yield return new WaitForSeconds(30f);
+                if (!player.HasPermission(Main.Instance.Configuration.Instance.TrackPermission))
+                {
+                    yield break;
+                }
                 if (Main.Instance.Configuration.Instance.LogInConsole)
                 {
                     Logger.Log(player.CharacterName + " Position Update: " + player.Position);
