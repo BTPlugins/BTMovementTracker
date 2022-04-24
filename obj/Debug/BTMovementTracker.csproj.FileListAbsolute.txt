@@ -1,0 +1,16 @@
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\BTMovementTracker.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\BTMovementTracker.pdb
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\Assembly-CSharp.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\Rocket.API.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\Rocket.Core.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\Rocket.Unturned.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\SDG.NetTransport.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\ShimmyMySherbet.DiscordWebhooks.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\bin\Debug\UnityEngine.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\obj\Debug\BTMovementTracker.csproj.AssemblyReference.cache
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\obj\Debug\BTMovementTracker.csproj.CoreCompileInputs.cache
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\obj\Debug\BTMovementTracker.csproj.CopyComplete
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\obj\Debug\BTMovementTracker.dll
+C:\Users\blaze\source\repos\BTMovementTracker\BTMovementTracker\obj\Debug\BTMovementTracker.pdb
